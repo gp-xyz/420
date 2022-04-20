@@ -17,7 +17,7 @@ function setup() {
 
 function draw() {
   frames++;
-  if (frames>2000){
+  if (frames>20000){
     noLoop();
   }
   if (frames%1080==0){
