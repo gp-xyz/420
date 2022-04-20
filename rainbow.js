@@ -1,0 +1,8 @@
+class Rainbow{
+    constructor(){
+
+    }
+    show(){
+        
+    }
+}
